@@ -26,7 +26,7 @@ std::string generateRandomBinary(int length) {
 }
 
 int main() {
-    std::cout << "Network Fix\nMade by dyhis\n";
+    std::cout << "Network Fix\nMade by n0th1ng\n";
 
     runCommand("netsh advfirewall firewall set rule group=\"File and Printer Sharing\" new enable=no");
     runCommand("netsh advfirewall firewall set rule group=\"Network Discovery\" new enable=no");
