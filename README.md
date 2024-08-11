@@ -1,5 +1,5 @@
 # Network-Fixer
-NetOptimizer is a tool for optimizing Windows network settings. It disables unnecessary IPv6 components, tweaks TCP/IP parameters, applies registry enhancements, and generates random binary data for IPv6. Ideal for improving network performance and stability on Windows systems.
+Network Fixer is a small utility designed to configure various network properties on Windows systems. By leveraging commands like netsh, sc, and registry modifications, this application can automatically adjust firewall settings, disable unnecessary services, and add random values to several critical network parameters.
 
 ---
 > HOW TO USE : </br>
